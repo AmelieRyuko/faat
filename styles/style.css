@@ -9,10 +9,12 @@ body{
     text-align:center;
     vertical-align:middle;
     line-height:100vh;
+    display:flex;
 }
 h1{
     margin:0;
 }
 .containerstart{
 line-height: initial;
+    margin:auto;
 }
