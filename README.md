@@ -5,4 +5,11 @@ Cette application web aura comme fonctionnalité :
 - formulaire qui demande l'état mental
 - Citation et photos qui apparaissent selon l'état
 
-Lien de l'application Web : https://amelieryuko.github.io/faat/
+Lien de l'application Web : https://amelieryuko.github.io/faat/?fbclid=IwAR3SzRXwPw-AkN4-zhsa-uT2CcBh1QAgKRdEU-wx3ewD73OPx7CPDXzx4nU
+
+
+Equipe projet : 
+Thomas Schoepfer 
+Amélie Reinbold 
+Florian Coassin  
+Anissa Baidou 
