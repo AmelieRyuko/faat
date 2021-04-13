@@ -13,12 +13,6 @@ export default function Home() {
           Salut
         </h1>
 
- <div id="QuoteOFDay"></div>
-<script>
-var type="theme";
-var theme="amour";
-</script>
-<script src="https://citations.ouest-france.fr/js/web/export.js?v3"></script>
     
       <footer>
         <a
