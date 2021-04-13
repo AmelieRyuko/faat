@@ -12,7 +12,6 @@ export default function Home() {
         <h1 className="title">
           Salut
         </h1>
-        <img src="https://source.unsplash.com/WLUHO9A_xik/1600x900">
 
       
       </main>
