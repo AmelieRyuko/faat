@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import TodoList from '../components/ShoppingList'
 
 export default function Home() {
   return (
@@ -12,20 +13,6 @@ export default function Home() {
         <h1 className="title">
           Salut
         </h1>
-          class ShoppingList extends React.Component {
-            render() {
-              return (
-                <div className="shopping-list">
-                  <h1>Liste de courses pour {this.props.name}</h1>
-                  <ul>
-                    <li>Instagram</li>
-                    <li>WhatsApp</li>
-                    <li>Oculus</li>
-                  </ul>
-                </div>
-              );
-            }
-          }
       <ShoppingList name="Marc" />
       </main>
 
