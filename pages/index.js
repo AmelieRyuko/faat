@@ -12,9 +12,21 @@ export default function Home() {
         <h1 className="title">
           Salut
         </h1>
-        <p className="soustitre">
-          yo
-        </p>
+          class ShoppingList extends React.Component {
+            render() {
+              return (
+                <div className="shopping-list">
+                  <h1>Liste de courses pour {this.props.name}</h1>
+                  <ul>
+                    <li>Instagram</li>
+                    <li>WhatsApp</li>
+                    <li>Oculus</li>
+                  </ul>
+                </div>
+              );
+            }
+          }
+      <ShoppingList name="Marc" />
       </main>
 
       <footer>
