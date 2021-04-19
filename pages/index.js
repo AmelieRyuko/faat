@@ -14,7 +14,7 @@ const Home = () => (
     <div className="hero">
       <h1 className="title">FAAT</h1>
     </div>
-
+  
     <style jsx>{`
       .hero {
         width: 100%;
