@@ -13,7 +13,7 @@ const Home = () => (
     <a href='connect.js'>Se connecter</a>
     <div className="hero">
       <h1 className="title">FAAT</h1>
-    
+    </div>
 
     <style jsx>{`
       .hero {
