@@ -12,35 +12,26 @@ const Home = () => (
     <Nav />
     <div className="hero">
       <h1 className="title">FAAT</h1>
-      <p className="description">
-        To get started, edit <code>pages/index.js</code> and save to reload.
-      </p>
-
-      <div className="row">
-        <a href="https://nextjs.org/docs" className="card">
-          <h3>Documentation &rarr;</h3>
-          <p>Learn more about Next.js in the documentation.</p>
-        </a>
-        <a href="https://nextjs.org/learn" className="card">
-          <h3>Next.js Learn &rarr;</h3>
-          <p>Learn about Next.js by following an interactive tutorial!</p>
-        </a>
-        <a
-          href="https://github.com/zeit/next.js/tree/master/examples"
-          className="card"
-        >
-          <h3>Examples &rarr;</h3>
-          <p>Find other example boilerplates on the Next.js GitHub.</p>
-        </a>
       </div>
-    </div>
-    <div id="QuoteOFDay"></div>
-<script>
-var type="theme";
-var theme="ici la variable en fonction du clique";
-</script>
-<script src="https://citations.ouest-france.fr/js/web/export.js?v3%22%3E"></script>
-
+      <form>
+            <label>
+             Nom :
+            <input type="text" name="name" />
+           </label>
+            <label>
+             prenom :
+            <input type="text" name="firstname" />
+           </label>
+             <label>
+             mail :
+            <input type="mail" name="mail" />
+           </label>
+            <label>
+             Mot de passe :
+            <input type="password" name="password" />
+           </label>
+          <input type="submit" value="Envoyer" />
+    </form>
     <style jsx>{`
       .hero {
         width: 100%;
