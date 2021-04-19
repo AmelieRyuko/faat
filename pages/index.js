@@ -14,6 +14,12 @@ const Home = () => (
     <div className="hero">
       <h1 className="title">FAAT</h1>
     </div>
+  <div id="QuoteOFDay"></div>
+<script>
+var type="theme";
+var theme="ambition";
+</script>
+<script src="https://citations.ouest-france.fr/js/web/export.js?v3"></script>  
   
     <style jsx>{`
       .hero {
