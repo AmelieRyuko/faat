@@ -36,4 +36,4 @@ class FlavorForm extends React.Component {
   }
 }
 
-export default boutons
+export default Boutons
