@@ -10,7 +10,7 @@ const Home = () => (
     </Head>
 
     <Nav />
-    <a href='connect'>Se connecter</a>
+    <a href='connect.js'>Se connecter</a>
     <div className="hero">
       <h1 className="title">FAAT</h1>
       <p className="description">
