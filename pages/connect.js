@@ -16,19 +16,19 @@ const Home = () => (
       <form action='index' id='formconnect'>
             <label>
              Nom :
-            <input type="text" name="name" />
+            <input type="text" name="name" required/>
            </label>
             <label>
              prenom :
-            <input type="text" name="firstname" />
+            <input type="text" name="firstname" required/>
            </label>
              <label>
              mail :
-            <input type="mail" name="mail" />
+            <input type="mail" name="mail" required/>
            </label>
             <label>
              Mot de passe :
-            <input type="password" name="password" />
+            <input type="password" name="password" required/>
            </label>
           <input type="submit" value="Envoyer" />
     </form>
