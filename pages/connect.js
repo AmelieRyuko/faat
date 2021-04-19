@@ -32,6 +32,8 @@ const Home = () => (
            </label></br>
           <input type="submit" value="Envoyer" />
     </form>
+  
+  
     <style jsx>{`
       .hero {
         width: 100%;
