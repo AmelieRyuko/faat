@@ -16,6 +16,7 @@ const Home = () => (
       <h1 className="title">FAAT</h1>
     </div>
   <div id="QuoteOFDay"></div>
+  <FlavorForm />
   <script>
 var type="theme";
 var theme="ambition";
