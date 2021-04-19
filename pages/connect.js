@@ -50,16 +50,16 @@ const Home = () => (
       .description {
         text-align: center;
       }
-      .formconnect{
+      #formconnect{
       width : 80%;
       display: inline-block;
       margin : auto;
       
       }
-.formconnect input{
-  display : block;
-width : 100%
-}
+      #formconnect input{
+        display : block;
+      width : 100%
+      }
     `}</style>
   </div>
 )
