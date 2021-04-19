@@ -52,9 +52,7 @@ const Home = () => (
       }
       #formconnect{
       width : 80%;
-      display: inline-block;
-      margin : auto;
-      
+      margin : auto;     
       }
       #formconnect input{
         display : block;
