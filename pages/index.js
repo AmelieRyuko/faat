@@ -1,7 +1,7 @@
 import React from 'react'
 import Head from 'next/head'
 import Nav from '../components/nav'
-import FlavorForm from '../components/boutons'
+import FlavorForm from '../components/FlavorForm'
 
 const Home = () => (
   <div>
