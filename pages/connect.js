@@ -17,19 +17,19 @@ const Home = () => (
             <label>
              Nom :
             <input type="text" name="name" />
-           </label>
+           </label><br>
             <label>
              prenom :
             <input type="text" name="firstname" />
-           </label>
+           </label><br>
              <label>
              mail :
             <input type="mail" name="mail" />
-           </label>
+           </label><br>
             <label>
              Mot de passe :
             <input type="password" name="password" />
-           </label>
+           </label><br>
           <input type="submit" value="Envoyer" />
     </form>
     <style jsx>{`
