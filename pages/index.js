@@ -19,7 +19,7 @@ const Home = () => (
 var type="theme";
 var theme="ambition";
 </script>
-<script src="https://citations.ouest-france.fr/js/web/export.js?v3"></script>  
+<script src="https://citations.ouest-france.fr/js/web/export.js?v3"></script> 
   
     <style jsx>{`
       .hero {
