@@ -13,7 +13,7 @@ const Home = () => (
     <div className="hero">
       <h1 className="title">FAAT</h1>
       </div>
-      <form action='index'>
+      <form action='index' id='formconnect'>
             <label>
              Nom :
             <input type="text" name="name" />
@@ -50,35 +50,16 @@ const Home = () => (
       .description {
         text-align: center;
       }
-      .row {
-        max-width: 880px;
-        margin: 80px auto 40px;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
+      .formconnect{
+      width : 80%;
+      display: inline-block;
+      margin : auto;
+      
       }
-      .card {
-        padding: 18px 18px 24px;
-        width: 220px;
-        text-align: left;
-        text-decoration: none;
-        color: #434343;
-        border: 1px solid #9b9b9b;
-      }
-      .card:hover {
-        border-color: #067df7;
-      }
-      .card h3 {
-        margin: 0;
-        color: #067df7;
-        font-size: 18px;
-      }
-      .card p {
-        margin: 0;
-        padding: 12px 0 0;
-        font-size: 13px;
-        color: #333;
-      }
+.formconnect input{
+  display : block;
+width : 100%
+}
     `}</style>
   </div>
 )
