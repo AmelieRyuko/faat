@@ -10,9 +10,9 @@ const Home = () => (
     </Head>
 
     <Nav />
-
+    <a href='connect'>Se connecter</a>
     <div className="hero">
-      <h1 className="title">Welcome to Next.js!</h1>
+      <h1 className="title">FAAT</h1>
       <p className="description">
         To get started, edit <code>pages/index.js</code> and save to reload.
       </p>
