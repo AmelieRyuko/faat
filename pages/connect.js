@@ -13,7 +13,7 @@ const Home = () => (
     <div className="hero">
       <h1 className="title">FAAT</h1>
       </div>
-      <form>
+      <form action='index.js'>
             <label>
              Nom :
             <input type="text" name="name" />
