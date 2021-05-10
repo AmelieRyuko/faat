@@ -1,6 +1,7 @@
 import React from 'react'
 import Head from 'next/head'
 import Nav from '../components/nav'
+import Nav from '../components/Citation'
 import FlavorForm from '../components/FlavorForm'
 
 const Home = () => (
@@ -17,6 +18,7 @@ const Home = () => (
     </div>
   <div id="QuoteOFDay"></div>
   <FlavorForm />
+  <Citation />
   <script>
 var type="theme";
 var theme="ambition";
