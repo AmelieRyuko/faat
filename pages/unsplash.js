@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import ReactDOM from "react-dom";
-import axios from "axios";
-import "./styles.css";
+
 
 function App() {
   const [photo, setPhoto] = useState("");
