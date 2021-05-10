@@ -12,7 +12,7 @@ const Nav = () => (
   <nav>
     <ul>
       <li>
-        <Link href="index">
+        <Link href="Home">
           <a>Home</a>
         </Link>
       </li>
