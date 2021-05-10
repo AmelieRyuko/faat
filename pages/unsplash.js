@@ -43,9 +43,7 @@ function App() {
           Search
         </button>
   
-        {result.map((photo) => (
-
-  ))}
+      
       </div>
     );
   }
