@@ -1,7 +1,7 @@
 import React from 'react'
 import Head from 'next/head'
 import Nav from '../components/nav'
-import Nav from '../components/Citation'
+import Citation from '../components/Citation'
 import FlavorForm from '../components/FlavorForm'
 
 const Home = () => (
