@@ -44,7 +44,7 @@ function App() {
         </button>
   
         {result.map((photo) => (
-          <img src={photo.urls.small}
+          <img src={photo}
         ))}
       </div>
     );
