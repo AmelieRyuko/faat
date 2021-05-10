@@ -44,8 +44,8 @@ function App() {
         </button>
   
         {result.map((photo) => (
-          <img src={photo}
-        ))}
+
+  ))}
       </div>
     );
   }
