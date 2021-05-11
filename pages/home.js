@@ -10,6 +10,7 @@ const Home = () => (
       <title>Home</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
+  <MyComponent/>
 
     <Nav />
     <a href='connect'>Se connecter</a>
@@ -17,7 +18,6 @@ const Home = () => (
       <h1 className="title">FAAT</h1>
     </div>
   <div id="QuoteOFDay"></div>
-  <FlavorForm />
   <Citation />
   <script>
 var type="theme";
