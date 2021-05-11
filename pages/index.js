@@ -10,6 +10,33 @@ const Home = () => (
       <link rel="icon" href="/favicon.ico" />
       <link rel="stylesheet" href="../styles/style.css">
   
+  
+    </Head>
+
+    <Nav />
+    <div className="hero">
+      <h1 className="title">FAAT</h1>
+      </div>
+      <form action='home' id='formconnect'>
+            <label>
+             Nom :
+            <input type="text" name="name" required/>
+           </label>
+            <label>
+             prenom :
+            <input type="text" name="firstname" required/>
+           </label>
+             <label>
+             mail :
+            <input type="mail" name="mail" required/>
+           </label>
+            <label>
+             Mot de passe :
+            <input type="password" name="password" required/>
+           </label>
+          <input type="submit" value="Envoyer" />
+    </form>
+  
   <style jsx>
   
       label.jsx-3086735343>input.jsx-3086735343{
@@ -46,33 +73,6 @@ const Home = () => (
       }
   
   </style>
-  
-    </Head>
-
-    <Nav />
-    <div className="hero">
-      <h1 className="title">FAAT</h1>
-      </div>
-      <form action='home' id='formconnect'>
-            <label>
-             Nom :
-            <input type="text" name="name" required/>
-           </label>
-            <label>
-             prenom :
-            <input type="text" name="firstname" required/>
-           </label>
-             <label>
-             mail :
-            <input type="mail" name="mail" required/>
-           </label>
-            <label>
-             Mot de passe :
-            <input type="password" name="password" required/>
-           </label>
-          <input type="submit" value="Envoyer" />
-    </form>
-  
   
   </div>
 )
