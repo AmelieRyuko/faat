@@ -4,6 +4,7 @@ import Nav from '../components/nav'
 import Citation from '../components/Citation'
 import FlavorForm from '../components/FlavorForm'
 import MyComponent from '../components/mycomponent'
+import './style.css';
 
 
 const Home = () => (
