@@ -22,13 +22,13 @@ h1{
     margin:auto;
 }
 
-/* label.jsx-3086735343>input.jsx-3086735343{
-    width: 210px;
-    height: 22px;
-} */
-
 
 /* Page connexion */
+
+label.jsx-3086735343>input.jsx-3086735343{
+    width: 210px;
+    height: 22px;
+}
 
       .hero {
         width: 100%;
