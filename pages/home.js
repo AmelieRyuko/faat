@@ -18,7 +18,7 @@ const Home = () => (
     </div>
 
   <MyComponent/>
-  <Citation />
+  
 
 
   </div>
