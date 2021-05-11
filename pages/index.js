@@ -10,7 +10,7 @@ const Home = () => (
       <link rel="icon" href="/favicon.ico" />
       <link rel="stylesheet" href="../styles/style.css">
   
-  <style>
+  <style jsx>
   
       label.jsx-3086735343>input.jsx-3086735343{
         width: 210px;
