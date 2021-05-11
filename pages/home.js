@@ -14,7 +14,7 @@ const Home = () => (
     </Head>
 
     <Nav />
-    <a href='connect'>Se connecter</a>
+    <a href='index'>Se connecter</a>
     <div className="hero">
       <h1 className="title">FAAT</h1>
     </div>
