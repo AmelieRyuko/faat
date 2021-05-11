@@ -5,7 +5,7 @@ import Nav from '../components/nav'
 const Home = () => (
   <div>
     <Head>
-      <title>connecter</title>
+      <title>Connexion</title>
       <link rel="icon" href="/favicon.ico" />
       <link rel="stylesheet" href="../styles/style.css" />
     </Head>
