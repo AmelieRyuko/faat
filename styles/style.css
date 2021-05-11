@@ -22,7 +22,7 @@ h1{
     margin:auto;
 }
 
-input{
+label>input{
     width: 210px;
     height: 22px;
 }
