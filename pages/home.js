@@ -10,21 +10,22 @@ const Home = () => (
       <title>Home</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
-  <MyComponent/>
 
     <Nav />
     <a href='connect'>Se connecter</a>
     <div className="hero">
       <h1 className="title">FAAT</h1>
     </div>
+  
+    <MyComponent/>
   <div id="QuoteOFDay"></div>
   <Citation />
   <script>
-var type="theme";
-var theme="ambition";
+    var type="theme";
+    var theme="ambition";
   </script>
-<script src="https://citations.ouest-france.fr/js/web/export.js?v3"></script> 
-  
+  <script src="https://citations.ouest-france.fr/js/web/export.js?v3"></script> 
+  </div>
     <style jsx>{`
       .hero {
         width: 100%;
