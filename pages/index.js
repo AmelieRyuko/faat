@@ -7,7 +7,7 @@ const Home = () => (
     <Head>
       <title>Connexion</title>
       <link rel="icon" href="/favicon.ico" />
-      <link rel="stylesheet" href="../styles/style.css" />
+      <link rel="stylesheet" href="/styles/style.css" />
     </Head>
 
     <Nav />
