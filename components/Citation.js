@@ -1,5 +1,5 @@
 import React from 'react'
-import Citata from "https://citations.ouest-france.fr/js/web/export.js?v3"
+import Citata from 'https://citations.ouest-france.fr/js/web/export.js?v3'
 
 class Citation extends React.Component {
   render() {
