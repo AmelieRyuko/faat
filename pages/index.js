@@ -7,7 +7,7 @@ const Home = () => (
     <Head>
       <title>Se connecter</title>
       <link rel="icon" href="/favicon.ico" />
-      <link rel="stylesheet" href="/style.css"/>
+      <link rel="stylesheet" href="https://github.com/AmelieRyuko/faat/blob/main/public/style.css">
     </Head>
 
     <Nav />
