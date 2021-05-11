@@ -9,6 +9,44 @@ const Home = () => (
       <title>Connexion</title>
       <link rel="icon" href="/favicon.ico" />
       <link rel="stylesheet" href="../styles/style.css">
+  
+  <style>
+  
+      label.jsx-3086735343>input.jsx-3086735343{
+        width: 210px;
+        height: 22px;
+        }
+
+      .hero {
+        width: 100%;
+        color: #333;
+      }
+
+      .title {
+        margin: 0;
+        width: 100%;
+        padding-top: 80px;
+        line-height: 1.15;
+        font-size: 48px;
+      }
+
+      .title,
+      .description {
+        text-align: center;
+      }
+
+      #formconnect{
+      width : 80%;
+      margin : auto;     
+      }
+
+      #formconnect input{
+        display : block;
+      width : 100%
+      }
+  
+  </style>
+  
     </Head>
 
     <Nav />
