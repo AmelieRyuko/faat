@@ -6,7 +6,7 @@ class Citation extends React.Component {
         <div id="QuoteOFDay"></div>
 
       
-<script src="https://citations.ouest-france.fr/js/web/export.js?v3" />
+// <script src="https://citations.ouest-france.fr/js/web/export.js?v3" />
     );
   }
 }
