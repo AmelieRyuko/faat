@@ -4,7 +4,6 @@ import Nav from '../components/nav'
 import Citation from '../components/Citation'
 import FlavorForm from '../components/FlavorForm'
 import MyComponent from '../components/mycomponent'
-// import Style from '../styles/style.css'
 
 
 const Home = () => (
@@ -12,7 +11,7 @@ const Home = () => (
     <Head>
       <title>Home</title>
       <link rel="icon" href="/favicon.ico" />
-//       <link rel="stylesheet" href="../styles/style.css"/>
+      <link rel="stylesheet" href="style.css"/>
     </Head>
 
     <Nav />
