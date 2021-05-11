@@ -11,7 +11,7 @@ const Home = () => (
     <Head>
       <title>Home</title>
       <link rel="icon" href="/favicon.ico" />
-      <link rel="stylesheet" href="../styles/style.css">
+      <link rel="stylesheet" href="../styles/style.css"/>
     </Head>
 
     <Nav />
