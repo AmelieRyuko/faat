@@ -19,7 +19,6 @@ const Home = () => (
   
     <MyComponent/>
   <div id="QuoteOFDay"></div>
-  <Citation />
   <script>
     var type="theme";
     var theme="ambition";
