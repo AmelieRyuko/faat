@@ -16,7 +16,7 @@ const Home = () => (
     <div className="hero">
       <h1 className="title">FAAT</h1>
     </div>
-  
+      <React.Fragment>
     <MyComponent/>
   <div id="QuoteOFDay"></div>
   <Citation />
@@ -25,7 +25,8 @@ const Home = () => (
     var theme="ambition";
   </script>
   <script src="https://citations.ouest-france.fr/js/web/export.js?v3"></script>
-   
+  </React.Fragment>
+
   </div>
 )
 
