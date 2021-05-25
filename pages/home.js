@@ -8,13 +8,13 @@ import MyComponent from '../components/mycomponent'
 
 const Home = () => (
   <div>
-  // <Head>
-      //<title>Home</title>
-    //  <link rel="icon" href="/favicon.ico" />
+   <Head>
+      <title>Home</title>
+     <link rel="icon" href="/favicon.ico" />
 //       <link rel="stylesheet" href="https://github.com/AmelieRyuko/faat/blob/main/public/style.css" />
-        //<link rel="stylesheet" href="../public/style.css" />
+        <link rel="stylesheet" href="../public/style.css" />
 //           <link rel="stylesheet" href="../style.css" />
-  // </Head>
+   </Head>
 
     <Nav />
     <a href='index'>Se connecter</a>
