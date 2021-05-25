@@ -8,13 +8,13 @@ import MyComponent from '../components/mycomponent'
 
 const Home = () => (
   <div>
- //   <Head>
+   <Head>
       <title>Home</title>
       <link rel="icon" href="/favicon.ico" />
 //       <link rel="stylesheet" href="https://github.com/AmelieRyuko/faat/blob/main/public/style.css">
         //<link rel="stylesheet" href="../public/style.css">
 //           <link rel="stylesheet" href="../style.css">
- //   </Head>
+   </Head>
 
     <Nav />
     <a href='index'>Se connecter</a>
@@ -25,7 +25,34 @@ const Home = () => (
   <MyComponent/>
   <Citation />
  
-
+ <style jsx>{`
+     body{
+     background-color:pink;
+     }
+      .hero {
+        width: 100%;
+        color: #333;
+      }
+      .title {
+        margin: 0;
+        width: 100%;
+        padding-top: 80px;
+        line-height: 1.15;
+        font-size: 48px;
+      }
+      .title,
+      .description {
+        text-align: center;
+      }
+      #formconnect{
+      width : 80%;
+      margin : auto;     
+      }
+      #formconnect input{
+        display : block;
+      width : 100%
+      }
+    `}</style>
   </div>
 )
 
