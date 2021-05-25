@@ -56,7 +56,17 @@ const Home = () => (
           line-height: 25px;
        }
 
-      #formconnect input[type='submit']{
+      #formconnect input:last-child{
+        width: fit-content;
+        margin: auto;
+        padding: 13px;
+        border: none;
+        border-radius: 5px;
+        box-shadow: 3px 3px 7px #80808082;
+        cursor: pointer;
+      }
+
+      #formconnect input:nth-child(2){
         width: fit-content;
         margin: auto;
         padding: 13px;
