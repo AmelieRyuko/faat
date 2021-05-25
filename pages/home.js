@@ -23,7 +23,7 @@ const Home = () => (
 
       .hero {
         width: 100%;
-        color: pink;
+        color: red;
       }
       .title {
         margin: 0;
@@ -45,6 +45,10 @@ const Home = () => (
       width : 100%
       }
       img{
+    width: 35%;
+    border-radius: 5px;
+    }
+      jsx-1466822305>img{
     width: 35%;
     border-radius: 5px;
     }
