@@ -25,10 +25,12 @@ const Home = () => (
           <input type="submit" value="Se connecter" />
     </form>
      <style jsx>{`
+      
       .hero {
         width: 100%;
         color: black;
       }
+
       .title {
         margin: 0;
         width: 100%;
@@ -36,18 +38,23 @@ const Home = () => (
         line-height: 1.15;
         font-size: 48px;
       }
+
       .title,
       .description {
         text-align: center;
       }
+
       #formconnect{
-      width : 50%;
-      margin : auto;     
+        width : 35%;
+        margin : auto;     
       }
       #formconnect input{
         display : block;
-      width : 50%
+        width : 50%
+        line-height: 25px;
+        margin-bottom: 20px;
       }
+
     `}</style>
   </div>
 )
