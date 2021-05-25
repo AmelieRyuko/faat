@@ -50,7 +50,7 @@ const Home = () => (
       }
       #formconnect input{
         display : block;
-        width : 50%
+        width : 50%;
         line-height: 25px;
         margin-bottom: 20px;
       }
@@ -62,7 +62,7 @@ const Home = () => (
 
       input.jsx-2367194551{
                 display : block;
-        width : 50%
+        width : 50%;
         line-height: 25px;
         margin-bottom: 20px;
       }   
