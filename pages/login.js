@@ -55,6 +55,18 @@ const Home = () => (
         margin-bottom: 20px;
       }
 
+      #formconnect.jsx-2367194551{
+                width : 35%;
+        margin : auto; 
+      }   
+
+      input.jsx-2367194551{
+                display : block;
+        width : 50%
+        line-height: 25px;
+        margin-bottom: 20px;
+      }   
+
     `}</style>
   </div>
 )
