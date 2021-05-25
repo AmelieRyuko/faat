@@ -45,6 +45,10 @@ const Home = () => (
         display : block;
       width : 100%
       }
+      img{
+    width: 35%;
+    border-radius: 5px;
+    }
     `}</style>
   </div>
 )
