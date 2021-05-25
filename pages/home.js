@@ -21,12 +21,10 @@ const Home = () => (
   <MyComponent/>
  
  <style jsx>{`
-     body{
-     background-color:pink;
-     }
+
       .hero {
         width: 100%;
-        color: #333;
+        color: pink;
       }
       .title {
         margin: 0;
