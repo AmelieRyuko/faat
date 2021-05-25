@@ -54,6 +54,11 @@ img{
 width:35%;
 }
 
+div.jsx-1227986742>img{
+width:35%;
+}
+
+
 
     `}</style>
   </div>
