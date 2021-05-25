@@ -54,6 +54,9 @@ const Home = () => (
           width : 100%;
           margin-bottom: 20px;
           line-height: 25px;
+          border: none;
+          border-radius: 5px;
+          padding: 5px;
        }
 
       #formconnect input:last-child{
@@ -86,6 +89,9 @@ const Home = () => (
         display : block;
         margin-bottom: 20px;
         line-height: 25px;
+        border: none;
+        border-radius: 5px;
+        padding: 5px;
       }   
 
     `}</style>
