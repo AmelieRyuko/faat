@@ -25,9 +25,6 @@ const Home = () => (
         width: 100%;
         color: red;
       }
-h1{
-color:red;
-}
       .title {
         margin: 0;
         width: 100%;
@@ -47,14 +44,17 @@ color:red;
         display : block;
       width : 100%
       }
-      img{
-    width: 35%;
-    border-radius: 5px;
-    }
-      jsx-1466822305>img{
-    width: 35%;
-    border-radius: 5px;
-    }
+    
+
+h1{
+color:black;
+}
+
+img{
+width:35%;
+}
+
+
     `}</style>
   </div>
 )
