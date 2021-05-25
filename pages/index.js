@@ -28,6 +28,9 @@ const Home = () => (
           <input type="submit" value="Se connecter" />
     </form>
      <style jsx>{`
+     body{
+     background-color:pink;
+     }
       .hero {
         width: 100%;
         color: #333;
