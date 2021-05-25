@@ -4,13 +4,11 @@ import Nav from '../components/nav'
 
 const Home = () => (
   <div>
-    //<Head>
-      //<title>Se connecter</title>
-      //<link rel="icon" href="/favicon.ico" />
-//       <link rel="stylesheet" href="https://github.com/AmelieRyuko/faat/blob/main/public/style.css">
-     //   <link rel="stylesheet" href="../public/style.css">
-// //          <link rel="stylesheet" href="../style.css">
-  // </Head>
+   <Head>
+      <title>Home</title>
+     <link rel="icon" href="/favicon.ico" />
+        <link rel="stylesheet" href="../public/style.css" />
+   </Head>
 
     <Nav />
     <div className="hero">
