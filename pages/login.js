@@ -66,6 +66,16 @@ const Home = () => (
         cursor: pointer;
       }
 
+      #formconnect input[type='submit']{
+        width: fit-content;
+        margin: auto;
+        padding: 13px;
+        border: none;
+        border-radius: 5px;
+        box-shadow: 3px 3px 7px #80808082;
+        cursor: pointer;
+      }
+
       #formconnect.jsx-2367194551{
         width : 35%;
         margin : auto; 
