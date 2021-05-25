@@ -48,23 +48,24 @@ const Home = () => (
         width : 35%;
         margin : auto;     
       }
+
       #formconnect input{
         display : block;
         width : 50%;
-        line-height: 25px;
         margin-bottom: 20px;
+        line-height: 25px;
       }
 
       #formconnect.jsx-2367194551{
-                width : 35%;
+        width : 40%;
         margin : auto; 
       }   
 
       input.jsx-2367194551{
-                display : block;
+        display : block;
         width : 50%;
-        line-height: 25px;
         margin-bottom: 20px;
+        line-height: 25px;
       }   
 
     `}</style>
