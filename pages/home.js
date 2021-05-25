@@ -25,6 +25,9 @@ const Home = () => (
         width: 100%;
         color: red;
       }
+h1{
+color:red;
+}
       .title {
         margin: 0;
         width: 100%;
