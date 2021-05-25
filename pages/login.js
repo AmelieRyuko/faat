@@ -27,7 +27,7 @@ const Home = () => (
      <style jsx>{`
       .hero {
         width: 100%;
-        color: #333;
+        color: black;
       }
       .title {
         margin: 0;
@@ -41,12 +41,12 @@ const Home = () => (
         text-align: center;
       }
       #formconnect{
-      width : 80%;
+      width : 50%;
       margin : auto;     
       }
       #formconnect input{
         display : block;
-      width : 100%
+      width : 50%
       }
     `}</style>
   </div>
