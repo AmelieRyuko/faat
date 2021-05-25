@@ -62,8 +62,8 @@ const Home = () => (
       }   
 
       input.jsx-2367194551{
+        width : 100%;        
         display : block;
-        width : 100%;
         margin-bottom: 20px;
         line-height: 25px;
       }   
