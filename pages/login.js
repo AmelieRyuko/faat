@@ -44,26 +44,26 @@ const Home = () => (
         text-align: center;
       }
 
-      #formconnect{
-        width : 35%;
-        margin : auto;     
-      }
+//       #formconnect{
+//         width : 35%;
+//         margin : auto;     
+//       }
 
-      #formconnect input{
-        display : block;
-        width : 50%;
-        margin-bottom: 20px;
-        line-height: 25px;
-      }
+//       #formconnect input{
+//         display : block;
+//         width : 50%;
+//         margin-bottom: 20px;
+//         line-height: 25px;
+//       }
 
       #formconnect.jsx-2367194551{
-        width : 40%;
+        width : 35%;
         margin : auto; 
       }   
 
       input.jsx-2367194551{
         display : block;
-        width : 50%;
+        width : 100%;
         margin-bottom: 20px;
         line-height: 25px;
       }   
