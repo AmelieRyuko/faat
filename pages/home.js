@@ -1,7 +1,6 @@
 import React from 'react'
 import Head from 'next/head'
 import Nav from '../components/nav'
-import FlavorForm from '../components/FlavorForm'
 import MyComponent from '../components/mycomponent'
 
 
