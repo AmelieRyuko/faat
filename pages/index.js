@@ -84,7 +84,13 @@ const Home = () => (
         border: none;
         border-radius: 5px;
         padding: 5px;
+        cursor: pointer;
       } 
+
+      input[type="submit" i] {
+        cursor: pointer;
+      }
+
     `}</style>
   </div>
 )
