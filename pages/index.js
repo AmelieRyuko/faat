@@ -99,6 +99,10 @@ const Home = () => (
           display:none;
       }
 
+      nav{
+        display:none;
+      }
+
     `}</style>
   </div>
 )
