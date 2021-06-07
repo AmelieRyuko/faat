@@ -15,7 +15,7 @@ const Home = () => (
       </div>
       <form action='home' id='formconnect'>
              <label>
-            Pseudonyme:
+            Pseudonyme :
             <input type="pseudo" name="pseudo" required/>
            </label>
             <label>
@@ -90,6 +90,10 @@ const Home = () => (
       }
 
       nav.jsx-2250620709>ul.jsx-2250620709 {
+          display:none;
+      }
+
+      ul.jsx-2250620709 {
           display:none;
       }
 
