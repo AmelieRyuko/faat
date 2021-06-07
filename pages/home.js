@@ -45,7 +45,10 @@ const Home = () => (
 //       width : 100%
 //       }
     
-
+ img{
+      width : 500px;
+      height : auto;
+      }
 h1{
 color:black;
 text-align: center;
