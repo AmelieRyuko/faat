@@ -14,7 +14,7 @@ const Home = () => (
     <h1 className="title">FAAT</h1>
     <Main />
   </div>
-     
+    
   <style jsx>{`
     body{
       background-color:pink;
