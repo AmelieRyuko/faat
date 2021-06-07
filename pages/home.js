@@ -21,33 +21,33 @@ const Home = () => (
  
  <style jsx>{`
 
-      .hero {
-        width: 100%;
-        color: red;
-      }
-      .title {
-        margin: 0;
-        width: 100%;
-        padding-top: 80px;
-        line-height: 1.15;
-        font-size: 48px;
-      }
-      .title,
-      .description {
-        text-align: center;
-      }
-      #formconnect{
-      width : 80%;
-      margin : auto;     
-      }
-      #formconnect input{
-        display : block;
-      width : 100%
-      }
+//       .hero {
+//         width: 100%;
+//         color: red;
+//       }
+//       .title {
+//         margin: 0;
+//         width: 100%;
+//         padding-top: 80px;
+//         line-height: 1.15;
+//         font-size: 48px;
+//       }
+//       .title,
+//       .description {
+//         text-align: center;
+//       }
+//       #formconnect{
+//       width : 80%;
+//       margin : auto;     
+//       }
+//       #formconnect input{
+//         display : block;
+//       width : 100%
+//       }
     
 
 h1{
-color:red;
+color:black;
 }
 
 img{
