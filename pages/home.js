@@ -7,12 +7,12 @@ import MyComponent from '../components/mycomponent'
 const Home = () => (
   <div>
    <Head>
-      <title>Home</title>
+      <title>FAAT</title>
      <link rel="icon" href="/favicon.ico" />
    </Head>
 
     <Nav />
-    <a href='index'>Se connecter</a>
+    <a href='index'>Connexion</a>
     <div className="hero">
       <h1 className="title">FAAT</h1>
     </div>
@@ -47,7 +47,8 @@ const Home = () => (
     
 
 h1{
-color:black;
+color:red;
+text-align: center;
 }
 
 img{
@@ -61,6 +62,15 @@ width:35%!important;
 div#__next>div#jsx-3032099879>img{
 width:35%!important;
 }
+
+MyComponent{
+width:35%!important;
+}
+
+#MyComponent{
+width:35%!important;
+}
+
 
 
 
