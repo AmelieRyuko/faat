@@ -49,7 +49,7 @@ class MyComponent extends React.Component {
 //              </li>
 //            ))}
 //          </ul>
-            <img src={results[0].urls.full}/>
+            <img  style={{width:400}} src={results[0].urls.full}/>
          );
       }
     }
