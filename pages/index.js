@@ -102,7 +102,10 @@ const Home = () => (
       nav{
         display:none;
       }
-
+      img{
+      width : 500px;
+      height : auto;
+      }
     `}</style>
   </div>
 )
