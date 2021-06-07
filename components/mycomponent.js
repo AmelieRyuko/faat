@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import ReactDOM from "react-dom";
 import Button from '../components/Button.js'
-//import axios from "axios";
+
 
 class MyComponent extends React.Component {
     constructor(props) {
