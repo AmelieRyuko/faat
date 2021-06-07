@@ -1,7 +1,7 @@
 import React from 'react'
 import Head from 'next/head'
 import Nav from '../components/nav'
-import MyComponent from '../components/mycomponent'
+import Main from '../components/Main'
 
 
 const Home = () => (
@@ -17,7 +17,7 @@ const Home = () => (
       <h1 className="title">FAAT</h1>
     </div>
 
-  <MyComponent/>
+  <Main />
  
  <style jsx>{`
 
