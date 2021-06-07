@@ -91,6 +91,10 @@ const Home = () => (
         cursor: pointer;
       }
 
+      nav.jsx-2250620709>ul.jsx-2250620709 {
+          display:none;
+      }
+
     `}</style>
   </div>
 )
