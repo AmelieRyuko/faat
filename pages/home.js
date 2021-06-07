@@ -48,7 +48,7 @@ const Home = () => (
 
 
 h1{
-color:black;
+color:red;
 text-align: center;
 font-size: 48px;
 }
@@ -56,6 +56,11 @@ font-size: 48px;
 div.jsx-2430414152{
 display:flex;
 }
+
+jsx-2430414152{
+display:flex;
+}
+
 
 img{
 width: auto;
