@@ -48,7 +48,7 @@ const Home = () => (
 
 
 h1{
-color:red;
+color:black;
 text-align: center;
 font-size: 48px;
 }
