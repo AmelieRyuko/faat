@@ -28,7 +28,7 @@ const Home = () => (
       
       .hero {
         width: 100%;
-        color: red;
+        color: black;
       }
 
       .title {
