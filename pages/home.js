@@ -65,6 +65,10 @@ display:flex;
 display:flex;
 }
 
+div{
+display:flex;
+}
+
 
 img{
 width: auto;
