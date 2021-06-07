@@ -61,6 +61,10 @@ jsx-2430414152{
 display:flex;
 }
 
+.jsx-2430414152{
+display:flex;
+}
+
 
 img{
 width: auto;
