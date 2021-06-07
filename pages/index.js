@@ -30,8 +30,9 @@ const Home = () => (
      }
       .hero {
         width: 100%;
-        color: #333;
+        color: black;
       }
+
       .title {
         margin: 0;
         width: 100%;
@@ -39,18 +40,51 @@ const Home = () => (
         line-height: 1.15;
         font-size: 48px;
       }
+
       .title,
       .description {
         text-align: center;
       }
+
       #formconnect{
-      width : 80%;
-      margin : auto;     
+        width : 35%;
+        margin : auto;     
+       }
+
+       #formconnect input{
+         display : block;
+          width : 100%;
+          margin-bottom: 20px;
+          line-height: 25px;
+          border: none;
+          border-radius: 5px;
+          padding: 5px;
+       }
+
+      #formconnect input:nth-child(2){
+        width: fit-content;
+        margin: auto;
+        padding: 13px;
+        border: none;
+        border-radius: 5px;
+        box-shadow: 3px 3px 7px #80808082;
+        cursor: pointer;
       }
-      #formconnect input{
+
+      #formconnect.jsx-2367194551{
+        width : 35%;
+        margin : auto; 
+      }   
+
+      input.jsx-2367194551{
+        width : 100%;        
         display : block;
-      width : 100%
-      }
+        margin-bottom: 20px;
+        line-height: 25px;
+        border: none;
+        border-radius: 5px;
+        padding: 5px;
+      } 
     `}</style>
   </div>
 )
