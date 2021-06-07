@@ -49,6 +49,7 @@ const Home = () => (
 h1{
 color:red;
 text-align: center;
+font-size: 48px;
 }
 
 img{
@@ -71,6 +72,13 @@ width:35%!important;
 width:35%!important;
 }
 
+#MyComponent>img{
+width:35%!important;
+}
+
+MyComponent>img{
+width:35%!important;
+}
 
 
 
