@@ -28,7 +28,7 @@ const Home = () => (
       
       .hero {
         width: 100%;
-        color: black;
+        color: red;
       }
 
       .title {
@@ -82,7 +82,12 @@ const Home = () => (
         border: none;
         border-radius: 5px;
         padding: 5px;
+        cursor: pointer;
       }   
+
+      input[type="submit" i] {
+        cursor: pointer;
+      }
 
     `}</style>
   </div>
