@@ -45,12 +45,7 @@ const Home = () => (
 //       width : 100%
 //       }
     
-img{
-width : 400px;
-height : auto;
-width:100%;
-margin:auto;
-}
+
 
 h1{
 color:black;
@@ -58,6 +53,15 @@ text-align: center;
 font-size: 48px;
 }
 
+div.jsx-2430414152{
+display:flex;
+}
+
+img{
+width: auto;
+margin: auto;
+height: 400px;
+}
 
 
 
