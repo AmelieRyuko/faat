@@ -47,15 +47,19 @@ const Home = () => (
     
 
 h1{
-color:black;
+color:red;
 }
 
 img{
-width:35%;
+width:35%!important;
 }
 
 div.jsx-1227986742>img{
-width:35%;
+width:35%!important;
+}
+
+div#__next>div#jsx-3032099879>img{
+width:35%!important;
 }
 
 
