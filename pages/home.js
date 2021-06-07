@@ -45,43 +45,19 @@ const Home = () => (
 //       width : 100%
 //       }
     
- img{
-      width : 500px;
-      height : auto;
-      }
+img{
+width : 400px;
+height : auto;
+width:100%;
+margin:auto;
+}
+
 h1{
 color:black;
 text-align: center;
 font-size: 48px;
 }
 
-img{
-width:35%!important;
-}
-
-div.jsx-1227986742>img{
-width:35%!important;
-}
-
-div#__next>div#jsx-3032099879>img{
-width:35%!important;
-}
-
-MyComponent{
-width:35%!important;
-}
-
-#MyComponent{
-width:35%!important;
-}
-
-#MyComponent>img{
-width:35%!important;
-}
-
-MyComponent>img{
-width:35%!important;
-}
 
 
 
