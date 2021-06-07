@@ -1,12 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
 
-const links = [
-  { href: '/todo', label: 'Todo' },
-].map(link => ({
-  ...link,
-  key: `nav-link-${link.href}-${link.label}`,
-}))
 
 const Nav = () => (
   <nav>
@@ -16,11 +10,6 @@ const Nav = () => (
           <a>Home</a>
         </Link>
       </li>
-     {links.map(({ key, href, label }) => (
-       <li key={key}>
-         <a href={href}>{label}</a>
-       </li>
-     ))}
     </ul>
 
     <style jsx>{`
