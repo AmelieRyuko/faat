@@ -4,7 +4,7 @@ L'objectif ou la fonction de cet API est de renvoyer une citation et/ou une imag
 Gestion de compte (authentification, inscription)
 formulaire qui demande l'état mental
 Citation et photos qui apparaissent selon l'état
-Lien de l'application Web : https://amelieryuko.github.io/faat/?fbclid=IwAR3SzRXwPw-AkN4-zhsa-uT2CcBh1QAgKRdEU-wx3ewD73OPx7CPDXzx4nU
+Lien de l'application Web :
 https://faat.netlify.app/
 
 Equipe projet : Thomas Schoepfer Amélie Reinbold Florian Coassin
