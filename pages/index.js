@@ -2,6 +2,7 @@ import React from 'react'
 import Head from 'next/head'
 
 import Main from '../components/Main'
+import Citations from '../components/Citations'
 
 const Home = () => (
   <div>
@@ -13,8 +14,9 @@ const Home = () => (
   <div className="hero">
     <h1 className="title">FAAT</h1>
     <Main />
+    <Citations />
   </div>
-    
+  
   <style jsx>{`
     body{
       background-color:pink;
