@@ -1,7 +1,7 @@
 import React from 'react'
 
-import Button from '../components/Button.js'
-import MyComponent from '../components/mycomponent.js'
+import Button from '../components/Button'
+import MyComponent from '../components/MyComponent'
 
 
 class Main extends React.Component {
