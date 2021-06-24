@@ -13,6 +13,7 @@ const Home = () => (
 
   <div className="hero">
     <h1 className="title">FAAT</h1>
+    <h2>Comment vous sentez-vous aujourd'hui ?</h2>
     <Main />
     <Citations />
   </div>
