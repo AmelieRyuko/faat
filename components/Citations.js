@@ -24,6 +24,13 @@ class Citations extends React.Component {
         return (
             <div>
                 <div dangerouslySetInnerHTML={{ __html: this.state.text }} />
+                <style jsx>{`
+             div{
+                border-radius:5px;
+                border:3px solid beige;
+                padding:3px;
+                 };
+             `}</style>
                 
             </div>
         );
