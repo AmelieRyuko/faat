@@ -30,7 +30,7 @@ class Citations extends React.Component {
                 border:3px solid beige;
                 padding:3px;
                 width: 400px;
-                margin: auto;
+                margin: auto auto 24px;
                 background: beige;
                  };
              `}</style>
