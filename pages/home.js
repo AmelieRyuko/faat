@@ -1,6 +1,7 @@
 import React from 'react'
 import Head from 'next/head'
 import Main from '../components/main.js'
+import Citations from '../components/Citations.js'
 
 const Home = () => (
   <div>
@@ -14,6 +15,7 @@ const Home = () => (
     <h1 className="title">FAAT</h1>
     <h2>Comment vous sentez-vous aujourd'hui ?</h2>
     <Main />
+    <Citations />
   </div>
   </main>
   
