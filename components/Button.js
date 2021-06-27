@@ -61,6 +61,12 @@ class Button extends React.Component {
         Triste
       </label>
     </div>
+<style jsx>{`
+      .form-check{
+        text-align:center;
+        font-size:24px;
+      };
+    `}</style>
   </form>
 
 
