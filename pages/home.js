@@ -39,7 +39,7 @@ const Home = () => (
       .title {
         margin: 0;
         width: 100%;
-        padding-top: 80px;
+        padding-top: 24px;
         line-height: 1.15;
         font-size: 48px;
         color:#fffff4;
@@ -86,7 +86,8 @@ const Home = () => (
         color:purple;
         text-decoration: none;
         weight-font:bold;
-        margin-left:10px;
+        margin-right:10px;
+        text-align: right;
       }
       .link a:hover{
         color:beige;
