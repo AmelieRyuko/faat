@@ -7,8 +7,6 @@ const Home = () => (
       <title>Se connecter</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
-
-    <Nav />
     <div className="hero">
       <h1 className="title">FAAT</h1>
       </div>
