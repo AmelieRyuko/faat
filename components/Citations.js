@@ -29,6 +29,9 @@ class Citations extends React.Component {
                 border-radius:5px;
                 border:3px solid beige;
                 padding:3px;
+                width: 400px;
+                margin: auto;
+                background: beige;
                  };
              `}</style>
                 
