@@ -20,7 +20,8 @@ class Main extends React.Component {
   render() {
     return (
         <div>
-          <Button changeMood={this.changeMood} defaultMood={this.state.mood} />                       
+          <Button changeMood={this.changeMood} defaultMood={this.state.mood} />
+          <div className="mess"> Voilà de quoi vous rendre le sourire ! </div> 
           <MyComponent mood={this.state.mood} />
         </div>
           
