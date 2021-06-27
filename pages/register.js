@@ -4,7 +4,7 @@ import Head from 'next/head'
 const Home = () => (
   <div>
     <Head>
-      <title>S'inscrire'</title>
+      <title>S'inscrire</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
     <main>
