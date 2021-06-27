@@ -14,11 +14,11 @@ const Home = () => (
       </div>
       <form action='home' id='formconnect'>
              <label>
-            Pseudonyme:
+            Pseudonyme
             <input type="pseudo" name="pseudo" required/>
            </label>
             <label>
-             Mot de passe :
+             Mot de passe 
             <input type="password" name="password" required/>
            </label>
           <input className="btn-submit" type="submit" value="Se connecter" />
