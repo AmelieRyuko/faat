@@ -67,8 +67,16 @@ class MyComponent extends React.Component {
         return <div>Chargement…</div>;
       } else {
         return (
-            //<div>Component MyComponent : {this.props.mood}</div> 
-            <img style={{width:400}} src={results[Math.floor(Math.random() * 5)].urls.full}/>
+             <div>
+            <img  style={{width:400}} src={results[Math.floor(Math.random() * 5)].urls.full}/>
+            <style jsx>{`
+             img{
+                border-radius:5px;
+                border:3px solid beige;
+                padding:3px;
+                 };
+             `}</style>
+            </div>
          );
       }
     }
