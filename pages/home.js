@@ -30,6 +30,7 @@ const Home = () => (
         left:0;
         right:0;
         bottom:-110;
+        text-align:center;
       }
       .hero {
         width: 100%;
