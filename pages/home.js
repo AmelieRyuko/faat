@@ -2,6 +2,7 @@ import React from 'react'
 import Head from 'next/head'
 import Main from '../components/main.js'
 import Citations from '../components/Citations.js'
+import Footer from '../components/footer.js'
 
 const Home = () => (
   <div>
@@ -81,18 +82,19 @@ const Home = () => (
       }
       .link{
         margin-top:12px;
+        margin-right:10px;
+        text-align: right;
       }
       .link a{
         color:purple;
         text-decoration: none;
         weight-font:bold;
-        margin-right:10px;
-        text-align: right;
       }
       .link a:hover{
         color:beige;
       }
     `}</style>
+<Footer />
   </div>
 )
 
