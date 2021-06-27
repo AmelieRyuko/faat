@@ -1,5 +1,6 @@
 import React from 'react'
 import Head from 'next/head'
+import Footer from '../components/footer.js'
 
 const Home = () => (
   <div>
@@ -103,6 +104,7 @@ const Home = () => (
         color:beige;
       }
     `}</style>
+<Footer />
   </div>
 )
 
