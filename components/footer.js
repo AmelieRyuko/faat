@@ -4,7 +4,6 @@ import Link from 'next/link'
 
 const Footer = () => (
   <footer>
-  <hr/>
     <div>LPWD - Équipe 1</div>
 
     <style jsx>{`
@@ -22,10 +21,6 @@ const Footer = () => (
         left:0;
    		font-size:12px;
    		padding:12px;
-      }
-      hr{
-      	background:beige;
-      	border:1px solid beige;
       }
     `}</style>
   </footer>
